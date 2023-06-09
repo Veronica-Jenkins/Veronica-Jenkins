@@ -1,6 +1,6 @@
 <h1>Hey there! I'm Veronica Jenkins My name is Veronica and I'm an<a href="https://linkedin.com/in/VeronicaJenkins">IT Helpdesk Analyst Professional</a></h1>
 
-<h2>👨‍💻 🖥 Information Technology Projects:</h2>
+<h2>🖥 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/configure-ad)

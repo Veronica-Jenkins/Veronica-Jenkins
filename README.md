@@ -3,8 +3,8 @@
 <h2>🖥 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/configure-ad)
-  - [Creating Virtual Machines In Azure](https://github.com/Veronica-Jenkins/azure-network-protocols)
+  - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup)
+  - [Creating Virtual Machines In Azure](https://github.com/Veronica-Jenkins/azure-vms)
   - [Preforming Activities and Inspecting Network Protocols](https://github.com/Veronica-Jenkins/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Veronica-Jenkins/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>

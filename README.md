@@ -11,16 +11,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Veronica-Jenkins/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Veronica-Jenkins/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Veronica-Jenkins/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Veronica-Jenkins/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Veronica-Jenkins/azure-network-protocols)
-- <b>DNS</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Veronica-Jenkins/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Veronica-Jenkins/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Veronica-Jenkins/ticket-lifecycle)
-- <b>VPN</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CodeRaven000/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CodeRaven000/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 

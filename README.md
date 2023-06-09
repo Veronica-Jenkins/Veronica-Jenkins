@@ -1,4 +1,4 @@
-<h1>Hey there! My name is Veronica and I'm an<a href="https://linkedin.com/in/VeronicaJenkins">IT Helpdesk Analyst Professional</a></h1>
+<h1>Hey there! I'm Veronica Jenkins My name is Veronica and I'm an<a href="https://linkedin.com/in/VeronicaJenkins">IT Helpdesk Analyst Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

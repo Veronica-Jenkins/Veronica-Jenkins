@@ -8,7 +8,7 @@
   - [Preforming Activities and Inspecting Network Protocols](https://github.com/Veronica-Jenkins/azure-network-protocols)
   - [Configuring Network File Permissions with Active Directory](https://github.com/Veronica-Jenkins/azure-permiss-ad)
  
- - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup)xxxx
+ - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup004)xxxx
   
   - [Preforming Activities and Inspecting Network Protocols](https://github.com/Veronica-Jenkins/azure-network-protocols)xxx
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Veronica-Jenkins/configure-ad)xxxx

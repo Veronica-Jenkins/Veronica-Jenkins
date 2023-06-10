@@ -3,8 +3,8 @@
 <h2>🖥 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup)
+  - [Preforming Activities and Inspecting Network Protocols](https://github.com/Veronica-Jenkins/azure-network-protocols)
  
  
  - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup)

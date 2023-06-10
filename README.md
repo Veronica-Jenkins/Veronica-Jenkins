@@ -7,8 +7,6 @@
   - [Creating Virtual Machines In Azure](https://github.com/Veronica-Jenkins/azure-vms)
   - [Preforming Activities and Inspecting Network Protocols](https://github.com/Veronica-Jenkins/azure-network-protocols)
   - [Configuring Network File Permissions with Active Directory](https://github.com/Veronica-Jenkins/azure-permiss-ad)
- 
- - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup004)xxxx
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Veronica-Jenkins/osticket-prereqs)

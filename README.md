@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup)
+  - [Creating Virtual Machines In Azure](https://github.com/Veronica-Jenkins/azure-vms)
   - [Preforming Activities and Inspecting Network Protocols](https://github.com/Veronica-Jenkins/azure-network-protocols)
  
  

@@ -3,7 +3,7 @@
 <h2>🖥 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Setting up a Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup)
+  - [Setting up an Microsoft Azure Account & Creating a Resource Group](https://github.com/Veronica-Jenkins/azure-setup)
   - [Creating Virtual Machines In Azure](https://github.com/Veronica-Jenkins/azure-vms)
   - [Preforming Activities and Inspecting Network Protocols](https://github.com/Veronica-Jenkins/azure-network-protocols)
   - [Configuring Network File Permissions with Active Directory](https://github.com/Veronica-Jenkins/azure-permiss-ad)
